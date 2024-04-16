@@ -1,3 +1,5 @@
+[![An image of @supratim69's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supratim69)](https://holopin.io/@supratim69)
+
 # 💫 About Me:
 Hey there! I'm an enthusiastic software developer 👨🏻‍💻 pursuing my B.Tech in Information Technology.<br>I'm all about diving into the latest tech trends and constantly evolving my skills.<br>With experience in both web and app domains, I'm working towards full-stack dev.🕸️<br>I thrive on learning new things and adapting to them quickly, leadint to continuous growth and innovation. :-3
 
